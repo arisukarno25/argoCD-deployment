@@ -13,6 +13,6 @@ spec:
       valueFiles:
       - values.yaml
     path: python-manifests
-    repoURL: https://github.com/arisukarno/python-hello-world
+    repoURL: https://github.com/arisukarno25/python-hello-world
     targetRevision: HEAD
   syncPolicy: {}
